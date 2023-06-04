@@ -1,0 +1,4 @@
+﻿  laba2.cpp
+C:\Users\User\OneDrive\Робочий стіл\Університет\labs oipz\laba2\laba2\laba2.cpp(99,23): warning C4305: 'argument': truncation from 'int' to 'char'
+C:\Users\User\OneDrive\Робочий стіл\Університет\labs oipz\laba2\laba2\laba2.cpp(99,18): warning C4309: 'argument': truncation of constant value
+  laba2.vcxproj -> C:\Users\User\OneDrive\Робочий стіл\Університет\labs oipz\laba2\x64\Debug\laba2.exe
